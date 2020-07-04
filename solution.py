@@ -4,4 +4,4 @@
 def checkArmstrong(num):
         # Your code goes here
 
-       return False
+       return True
