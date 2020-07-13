@@ -2,6 +2,6 @@
 # The program should return true or false
 
 def checkArmstrong(num):
-        # Your code goes here
+    # Your code goes here
 
-       return True
+    return True
